@@ -1,0 +1,4 @@
+structur student{
+name
+int marc
+}
